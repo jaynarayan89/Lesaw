@@ -1,0 +1,1 @@
+{"version":3,"sources":["_global.scss","_colors.scss"],"names":[],"mappings":"AAAA,KACI,wBCCY","file":"style.css","sourcesContent":["body{\n    background-color:$dkGray;\n\n\n}","$white: #ffffff;\n$black: #000000;\n$dkGray: #bdb2b2;\n$ltGray: #cecece;"]}
